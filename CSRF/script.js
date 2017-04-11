@@ -22,7 +22,7 @@ $(document).on("click", '#signin', function(){
 
 $(document).on("click", '#showsocial', function(){
 
-    $.get("xsrf.php",
+    $.get("csrf.php",
     {
 
     },
