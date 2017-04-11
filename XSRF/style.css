@@ -1,0 +1,15 @@
+#Enter{
+    float: left;
+    width: 400px;
+    height: 600px;
+    /*background-color: blue;
+    */
+}
+.t1{
+    text-align: center;
+    margin-left: 50px;
+    width: 300px;
+}
+table, td{
+    border: 1px solid black;
+}
